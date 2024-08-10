@@ -1,8 +1,5 @@
 # AI CHATBOT
 
-Description
-
-
 This is an AI Chatbot using LLUMA
 
 
