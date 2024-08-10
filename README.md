@@ -1,4 +1,4 @@
-AI CHATBOT
+# AI CHATBOT
 
 Description
 This is an AI Chatbot using LLUMA
@@ -28,7 +28,8 @@ Install dependencies:
 
 #bash
 npm install
-#or
+
+
 yarn install
 # or
 pnpm install
