@@ -50,25 +50,25 @@ bun dev
 
 Then open http://localhost:3000 in your browser.
 
-Usage
+*Usage*
 
 Editing Pages: You can start editing the page by modifying app/page.js. The page auto-updates as you edit the file.
 Fonts: This project uses next/font to automatically optimize and load custom fonts, like Inter from Google Fonts.
 Contributing
 
-If you want to contribute to this project:
+*If you want to contribute to this project:*
 
 Fork the repository.
-
 Create a new branch (git checkout -b feature-branch).
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
 Please refer to the contribution guidelines for more details.
 
-License
+*License*
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-Mention any libraries, tools, or resources that helped you with the project.
-Credit any contributors or collaborators.
+*Acknowledgements*
+
+make sure you set the Enviornment variable
