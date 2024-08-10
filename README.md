@@ -28,7 +28,7 @@ Install dependencies:
 
 #bash
 npm install
-# or
+#or
 yarn install
 # or
 pnpm install
